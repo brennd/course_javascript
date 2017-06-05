@@ -1,2 +1,2 @@
 # course_javascript
-Mi curso de javascript
+Mi maldicion de javascript
